@@ -1,0 +1,23 @@
+{
+  "name": "graphql-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hwanam1111/graphql-movie-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hwanam1111/graphql-movie-example/issues"
+  },
+  "homepage": "https://github.com/hwanam1111/graphql-movie-example#readme",
+  "dependencies": {
+    "@graphql-yoga/node": "^0.1.0-alpha.3",
+    "graphql": "^16.3.0"
+  }
+}
